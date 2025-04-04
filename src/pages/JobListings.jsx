@@ -1,8 +1,10 @@
+import ListingsCard from "../components/ListingsCard"
+
 export default function JobListings(){
        return (
         <>
 
-        This is the  home page
+         <ListingsCard/>
         
         </>
        )
